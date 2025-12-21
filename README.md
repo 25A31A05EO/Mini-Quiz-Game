@@ -1,5 +1,5 @@
 # Mini-Quiz-Game
-My C project#include <stdio.h>
+My first C program project#include <stdio.h>
 
 int main() {
     int score = 0;
