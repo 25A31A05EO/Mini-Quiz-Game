@@ -1,0 +1,22 @@
+Start the program.
+Declare variables:
+score = 0
+answer (character variable)
+Display "Mini Quiz Game" title.
+Display Question 1 with options.
+Read the user's answer.
+If the answer is b or B, increment score.
+Display Question 2 with options.
+Read the user's answer.
+If the answer is c or C, increment score.
+Display Question 3 with options.
+Read the user's answer.
+If the answer is b or B, increment score.
+Display Question 4 with options.
+Read the user's answer.
+If the answer is a or A, increment score.
+Display the total score.
+If score == 4, display Excellent.
+Else if score >= 2, display Good Job.
+Otherwise display Better Luck Next Time.
+Stop the program.
